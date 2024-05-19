@@ -1,10 +1,9 @@
-https://janardhanpg.github.io/RedStore/
+https://
 
-Project Name: RedStore - Ecommerce Website Design
+Project Name: Ecommerce Web Application
 
 Description:
-
-RedStore is a modern and stylish e-commerce website design project. It provides a visually appealing and user-friendly interface for an online store. With an attractive design, smooth navigation, and essential e-commerce features, RedStore is a template that can be used as a starting point for creating your own online store.
+This e-commerce web application is a dynamic and interactive platform that allows users to browse products, manage their shopping cart, and proceed through a checkout process. Built using HTML, CSS, and JavaScript, this application provides a user-friendly interface and responsive design to ensure a seamless shopping experience across different devices.
 
 Key Features:
 
@@ -40,4 +39,4 @@ JavaScript
 
 Author:
 
-Janardhan P Gouda
+Rajat Singh
